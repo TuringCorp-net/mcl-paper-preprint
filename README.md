@@ -1,3 +1,5 @@
+[![DOI](https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.30645869-blue?logo=doi&logoColor=white)](https://doi.org/10.6084/m9.figshare.30645869)
+
 # Human-Inspired Agent Organization: MCL Improves Output Quality on Complex Tasks
 
 **Canonical preprint (figshare DOI)**: https://doi.org/10.6084/m9.figshare.30645869
