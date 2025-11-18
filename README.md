@@ -15,4 +15,8 @@ We present a Meta-Coordination Layer (MCL) that transfers human organizational p
 - Project: https://www.TuringCorp.net/tools
 
 ## License
-Content © Li Zhang. Released under **CC BY 4.0**. See `LICENSE`.
+- **Code/config/scripts (if any)**: MIT License (see `LICENSE`).
+- **Paper text & figures**: CC BY 4.0 (see `LICENSE-CC-BY-4.0.md`).  
+  Canonical DOI: https://doi.org/10.6084/m9.figshare.30645869
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
