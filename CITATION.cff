@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the figshare preprint."
+title: "Human-Inspired Agent Organization: MCL Improves Output Quality on Complex Tasks"
+authors:
+  - family-names: Zhang
+    given-names: Li
+year: 2025
+doi: 10.6084/m9.figshare.30645869
+url: https://doi.org/10.6084/m9.figshare.30645869
+preferred-citation:
+  type: article
+  title: "Human-Inspired Agent Organization: MCL Improves Output Quality on Complex Tasks"
+  authors:
+    - family-names: Zhang
+      given-names: Li
+  year: 2025
+  doi: 10.6084/m9.figshare.30645869
